@@ -1,0 +1,16 @@
+.add-student-container,
+.manage-student {
+    position: relative;
+    margin-left: 18%;
+    margin-top: 3%;
+    width: 80%;
+    padding: 1rem 2rem;
+}
+
+.add-student-container .title {
+    width: 100%;
+}
+
+.add-student-container .alert {
+    width: 75%;
+}
